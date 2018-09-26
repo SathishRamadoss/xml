@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="ex2css.css"?>
+<!DOCTYPE employee SYSTEM "employee.dtd">
+<employee>
+<heading>LIST OF STUDENTS</heading>
+<br />
+<br><text1>arun</text1> <br/>
+<br><text2>kumar</text2> <br/>
+<text3>sathish</text3>
+<text4>sridhar</text4>
+
+<heading>SELECTED CANDIDATES</heading>
+<text1>arun</text1>
+<text2>Sathish</text2>
+</employee>

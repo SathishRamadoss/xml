@@ -1,0 +1,22 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "ex4xsl.xsl"?>
+<class>
+<employee id = "001">
+<name>arun</name>
+<email>arun023@gmail.com</email>
+
+<score>80</score>
+</employee>
+<employee id = "002">
+<name>Sathish</name>
+<email>satzz@gmail.com</email>
+
+<score>86</score>
+</employee>
+<employee id = "003">
+<name>Sri</name>
+
+<email>sri@yahoo.com</email>
+<score>96</score>
+</employee>
+</class>
